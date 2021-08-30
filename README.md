@@ -14,7 +14,7 @@
   <img align="center" alt="Ícaro-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="right" alt="Ícaro-yoda" src="https://media2.giphy.com/media/25oFarLxPqrNS/giphy.gif?cid=ecf05e47xuhpxivc74y379qmp4c9w9ch0bc5dmhm1fqcy9ao&rid=giphy.gif&ct=g">
 </div>
- ##
+ 
 <div> 
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
