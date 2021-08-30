@@ -12,7 +12,7 @@
   <img align="center" alt="Ícaro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ícaro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ícaro-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Ícaro-yoda" src="https://media2.giphy.com/media/25oFarLxPqrNS/giphy.gif?cid=ecf05e47xuhpxivc74y379qmp4c9w9ch0bc5dmhm1fqcy9ao&rid=giphy.gif&ct=g">
+  <img align="right" alt="Ícaro-yoda" src="https://media3.giphy.com/media/kyKuZzsa6bShl3SaHe/giphy.webp?cid=ecf05e47be9arzoipfbakno73j0wqu8j7gprb0dz9ugpioef&rid=giphy.webp&ct=s">
 </div>
  
 <div> 
