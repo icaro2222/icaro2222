@@ -2,8 +2,8 @@
 
  <div>
   <a href="https://github.com/icaro2222">
-  <img align="left" height="145em" src="https://github-readme-stats.vercel.app/api?username=icaro2222&theme=default"/>
-  <img align="right" height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icaro2222&layout=demo&theme=default"/>
+  <img align="left" height="160em" src="https://github-readme-stats.vercel.app/api?username=icaro2222&theme=default"/>
+  <img align="right" height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icaro2222&layout=demo&theme=default"/>
 
 
 
