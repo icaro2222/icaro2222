@@ -1,8 +1,8 @@
 ## Eai! Eu sou Ícaro Dias 
  <div>
   <a href="https://github.com/icaro2222">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=icaro2222&theme=blue-green"/>
-  <img height="180em" src="	https://github-readme-stats.vercel.app/api/top-langs/?username=icaro2222&theme=blue-green"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=icaro2222&theme=blue-green"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icaro2222&layout=compact&theme=blue-green"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Ícaro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
