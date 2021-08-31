@@ -17,7 +17,7 @@
   <img align="center" alt="Ícaro-CPhp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Ícaro-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Ícaro-Jupyter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
-  <img align="center" alt="Ícaro-Aditanti" height="90" width="120" src="https://adianti.com.br/images/logo_full.svg">
+  <img align="center" alt="Ícaro-Aditanti" height="30" width="40" src="https://adianti.com.br/images/logo_full.svg">
   <img align="center" alt="Ícaro-Postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
  
   <img align="right" alt="Ícaro-yoda" src="https://media3.giphy.com/media/kyKuZzsa6bShl3SaHe/giphy.webp?cid=ecf05e47be9arzoipfbakno73j0wqu8j7gprb0dz9ugpioef&rid=giphy.webp&ct=s">
