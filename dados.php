@@ -1,6 +1,8 @@
 <?php
-echo "Dados";
-
+echo "Dados<br><br>";
+$nome = $_GET['nome'];
+$email = $_GET['email'];
+echo "$nome <br><br> $email<br><br>";
 ?>
 <!DOCTYPE html>
 <html lang="pt">
@@ -17,8 +19,8 @@ echo "Dados";
 				<hr>
 				<h1>Fewgewgtrhertherhhetheio</h1>
 				<p>vamos ver</p>
-				<input type="email" name="email" id="id_email"><br><br>
-				<input type="text" name="nome" id="id_nome"><br><br>
+				<input type="email" name="email"><br><br>
+				<input type="text" name="nome" ><br><br>
 				<input type="button" value="butao">
 				<img src="https://avatars.githubusercontent.com/u/71037296?s=48&v=4" alt="">
 				<a href="index.php">Clique aqui</a>

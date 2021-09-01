@@ -12,13 +12,13 @@
 <body>
 	<div>
 		<div class="">
-			<form action="">
+			<form action="dados.php" method="GET">
 				<h1>Formulario</h1>
 				<p>Pagina Principal</p>
 				<hr>
-				<input type="email" name="email" id="id_email"><br><br>
-				<input type="password" name="password" id="id_password"><br><br>
-				<input type="button" value="butao">
+				Nome: <input type="email" name="email"><br><br>
+				Email: <input type="text" name="nome"><br><br>
+				<button type="submit" value="Enviar">
 				<img src="https://avatars.githubusercontent.com/u/71037296?s=48&v=4" alt="">
 				<a href="home.php">Clique aqui</a>
 			</form>
