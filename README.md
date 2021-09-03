@@ -1,4 +1,4 @@
-## Eai! Eu sou Ícaro Dias 
+## Eai, Eu sou Ícaro Dias.
  
  <div>
   <a href="https://github.com/icaro2222">
