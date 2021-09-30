@@ -6,7 +6,6 @@
   <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icaro2222&layout=demo&theme=default"/>
 
 
-
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Ícaro-Js" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
