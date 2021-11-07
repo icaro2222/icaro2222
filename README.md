@@ -10,18 +10,18 @@
   <img align="center" alt="Ícaro-Js" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ícaro-HTML" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ícaro-CSS" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Ícaro-Python" height="60" width="75" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Ícaro-C" height="60" width="75" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
- 
- 
+  <img align="center" alt="Ícaro-Python" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Ícaro-C" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Ícaro-CPhp" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Ícaro-Mysql" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Ícaro-Jupyter" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
   <img align="center" alt="Ícaro-Aditanti" height="60" width="80" src="https://adianti.com.br/images/logo_full.svg">
   <img align="center" alt="Ícaro-Postgresql" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
  
-  <img align="right" alt="Ícaro-Rick" src="https://media3.giphy.com/media/kyKuZzsa6bShl3SaHe/giphy.webp?cid=ecf05e47be9arzoipfbakno73j0wqu8j7gprb0dz9ugpioef&rid=giphy.webp&ct=s">
-  <img align="left" alt="Ícaro-Rick" src="https://media4.giphy.com/media/SvGFA2WF9IP0WjmzvE/giphy.gif?cid=ecf05e478g3q3e8x0x4fo6sfmrn77n5jhxsarlfwoehx1ziv&rid=giphy.gif&ct=s">
+  <img align="right" alt="Ícaro-Rick" alt="Ícaro-Jupyter" height="60" width="80" 
+       src="https://media3.giphy.com/media/kyKuZzsa6bShl3SaHe/giphy.webp?cid=ecf05e47be9arzoipfbakno73j0wqu8j7gprb0dz9ugpioef&rid=giphy.webp&ct=s">
+  <img align="left" alt="Ícaro-Rick" alt="Ícaro-Jupyter" height="60" width="80" 
+       src="https://media4.giphy.com/media/SvGFA2WF9IP0WjmzvE/giphy.gif?cid=ecf05e478g3q3e8x0x4fo6sfmrn77n5jhxsarlfwoehx1ziv&rid=giphy.gif&ct=s">
 </div>
  
 <div> 
