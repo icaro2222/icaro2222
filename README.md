@@ -1,4 +1,4 @@
-## E ai, Eu sou Ícaro Dias.
+## Eu sou Ícaro Dias Um aluno exemplar do IFBaiano Campus Guanambi
 
  <div>
   <a href="https://github.com/icaro2222"> 
