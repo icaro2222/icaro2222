@@ -1,4 +1,4 @@
-## Ícaro Dias, estudante no IFBaiano Campus Guanambi que se aventura na programação.
+## Ícaro Dias, estudante do IFBaiano Campus Guanambi que se aventura na programação.
 
  <div>
   <a href="https://github.com/icaro2222"> 
