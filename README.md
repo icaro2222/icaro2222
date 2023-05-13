@@ -1,4 +1,4 @@
-## Ícaro Dias, graduando em Análise e Desenvolvimento de Sistemas no IFBaiano Campus Guanambi, e aventureiro na programação.
+## Ícaro Dias, an undergraduate student in Systems Analysis and Development at IFBaiano Campus Guanambi, and an adventurer in programming.
 
  <div>
   <a href="https://github.com/icaro2222"> 
